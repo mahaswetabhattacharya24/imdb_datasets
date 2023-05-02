@@ -1,0 +1,1 @@
+The publicly available IMDB dataset with sentiment of reviews is used to build a classifier with multi-layer perceptron. Model loss is plotted along with confusion matrix after prediction.
